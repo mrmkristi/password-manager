@@ -9,3 +9,7 @@
 ## Startup
 
 * Run Password Manager.exe file
+
+## Preview
+
+![pw-manager](https://user-images.githubusercontent.com/114514562/217043607-316d0801-ffe6-4990-8467-42847a8e79c3.png)
